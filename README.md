@@ -1,18 +1,19 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# 🏦 Banking System Project
 
-## Folder Structure
+Welcome to the Banking System project! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
 
-The workspace contains two folders by default, where:
+# 📦 Features
+- User Registration & Login
+- Account Creation
+- Debit and Credit Transactions
+- Money Transfer Between Accounts
+- Balance Inquiry
+- Robust Security Measures
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# 🌐 Technologies Used
+- Java
+- JDBC (Java Database Connectivity)
+- MySQL (or your preferred database system)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Happy coding! 🎉
